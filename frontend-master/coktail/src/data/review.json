@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "_id": 1,
+      "userId": "asdasd",
+      "type": "cocktail",
+      "content": "이거 정말 맛있어요 ~!",
+      "image": "",
+      "title": "얼그레이 하이볼",
+      "createdAt": "2023-12-15",
+      "star": "4"
+    },
+    {
+      "_id": 2,
+      "userId": "asdasd",
+      "type": "cocktail",
+      "content": "이거 좋아! 이거 좋아! 이거 좋아! 이거 좋아! 이거 좋아! 이거 좋아! 이거 좋아! 이거 좋아! 이거 좋아! ",
+      "image": "/src/assets/base/liqueur.png",
+      "title": "물라토 프렌치",
+      "createdAt": "2023-12-10",
+      "star": "5"
+    },
+    {
+      "_id": 3,
+      "userId": "asdasd",
+      "type": "diyRecipe",
+      "content": "맛있구만맛있구만맛있구만맛있구만맛있구만맛있구만맛있구만맛있구만맛있구만맛있구만맛있구만맛있구만",
+      "image": "",
+      "title": "미녀는 석류를 좋아해",
+      "createdAt": "2023-11-11",
+      "star": "4"
+    },
+    {
+      "_id": 4,
+      "userId": "asdasd",
+      "type": "diyRecipe",
+      "content": "달달합니다.",
+      "image": "/src/assets/base/liqueur.png",
+      "title": "상콤달콤 레시피",
+      "createdAt": "2023-10-23",
+      "star": "3"
+    }
+  ]
+}
